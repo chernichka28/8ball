@@ -1,6 +1,5 @@
 # 8ball
-Simulates the operation of the "Magic ball" game:
-Selects a random greeting and response.
+Simulates the operation of the "Magic ball" game: selects a random greeting and response.
 
 Written in `Ruby`
 
