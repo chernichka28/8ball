@@ -35,9 +35,9 @@ answers = [
 ]
 
 puts greetings.sample
-# Задержка в 1 секунды
+
 sleep 1
 puts
 sleep 1
-# Вывод случайного элемента массива
+
 puts answers.sample
